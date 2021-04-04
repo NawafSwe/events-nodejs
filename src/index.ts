@@ -1,5 +1,6 @@
 const EventEmitter = require(`events`);
 // we can use options for events { - }
+//The listeners are executed in the order the listeners are created for an event emitter.
 const ee = new EventEmitter();
 const express = require(`express`);
 const app = express();
