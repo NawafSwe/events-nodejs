@@ -1,0 +1,25 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "this is json pacakge to hold depencecies",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NawafSwe/events-nodejs.git"
+  },
+  "keywords": [
+    "events",
+    "nodejs",
+    "emmiters",
+    "publish"
+  ],
+  "author": "Nawaf Alsharqi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NawafSwe/events-nodejs/issues"
+  },
+  "homepage": "https://github.com/NawafSwe/events-nodejs#readme"
+}
