@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "this is json pacakge to hold depencecies",
   "main": "src/index.ts",
-
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start:dev": "NODE_ENV=development nodemon src/index.ts",
